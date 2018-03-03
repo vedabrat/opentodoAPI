@@ -1,24 +1,19 @@
-# README
+== Open-To-Do
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This app is meant to aid blocitoff as a To-Do list. This is the codebase for the open API
 
-Things you may want to cover:
+accessible from the command line.
 
-* Ruby version
 
-* System dependencies
+Things to do for this app.
 
-* Configuration
 
-* Database creation
+As the Open To-do API, I want to return JSON representations of users, lists, and items (done)
 
-* Database initialization
+As a user, authenticate myself from the command line, using a username and password
 
-* How to run the test suite
+As a user, create new users, lists, and items from the command line
 
-* Services (job queues, cache servers, search engines, etc.)
+As a user, remove users and lists from the command line
 
-* Deployment instructions
-
-* ...
+As a user, update list and item attributes from the command line
